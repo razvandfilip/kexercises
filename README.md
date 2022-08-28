@@ -534,9 +534,11 @@ Magnet Puzzle http://www.techiedelight.com/magnet-puzzle/
 
 ## In Progress
 
-1. Find sub-array with 0 sum <http://www.techiedelight.com/find-sub-array-with-0-sum/> - `zero-sum-subarray`
-
 ## Done
+
+### Arrays
+
+1. Find sub-array with 0 sum <http://www.techiedelight.com/find-sub-array-with-0-sum/> - `zero-sum-subarray`
 
 ## Done elsewhere
 
