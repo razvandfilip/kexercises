@@ -6,7 +6,6 @@ Original list of 500 exercises - <https://kingrayhan.medium.com/500-data-structu
 
 ### Array
 
-Find sub-array with 0 sum http://www.techiedelight.com/find-sub-array-with-0-sum/
 Sort binary array in linear time http://www.techiedelight.com/sort-binary-array-linear-time/
 Find a duplicate element in a limited range array http://www.techiedelight.com/find-duplicate-element-limited-range-array/
 Find largest sub-array formed by consecutive integers http://www.techiedelight.com/find-largest-sub-array-formed-by-consecutive-integers/
@@ -534,6 +533,8 @@ Find square of a number without using multiplication and division operator | 3 m
 Magnet Puzzle http://www.techiedelight.com/magnet-puzzle/
 
 ## In Progress
+
+1. Find sub-array with 0 sum <http://www.techiedelight.com/find-sub-array-with-0-sum/> - `zero-sum-subarray`
 
 ## Done
 
