@@ -530,7 +530,7 @@ Tower of Hanoi Problem http://www.techiedelight.com/tower-of-hanoi-problem/
 Print all numbers between 1 to N without using any loop | 4 methods http://www.techiedelight.com/print-numbers-1-n-without-using-loop-4-methods/
 Multiply two numbers without using multiplication operator or loops http://www.techiedelight.com/multiply-two-numbers-without-using-multiplication-operator-loops/
 Find square of a number without using multiplication and division operator | 3 methods http://www.techiedelight.com/find-square-number-without-using-multiplication-division-operator/
-Magnet Puzzle http://www.techiedelight.com/magnet-puzzle/
+Magnet Puzzle http://www.techiedelight.com/magnet-puzzle/ -
 
 ## In Progress
 
