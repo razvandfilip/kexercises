@@ -519,7 +519,6 @@ Greedy coloring of graph http://www.techiedelight.com/greedy-coloring-graph/
 
 Add two numbers without using addition operator | 5 methods http://www.techiedelight.com/add-two-numbers-without-using-addition-operator/
 Generate power set of a given set http://www.techiedelight.com/generate-power-set-given-set/
-Implement power function without using multiplication and division operators http://www.techiedelight.com/implement-power-function-without-using-multiplication-division-operators/
 Print all numbers between 1 to N without using semicolon http://www.techiedelight.com/print-numbers-1-n-without-using-semicolon/
 Swap two numbers without using third variable | 5 methods http://www.techiedelight.com/swap-two-numbers-without-using-third-variable/
 Determine the if condition to print specific output http://www.techiedelight.com/determine-condition-to-print-specific-output/
@@ -539,6 +538,10 @@ Magnet Puzzle http://www.techiedelight.com/magnet-puzzle/ -
 ### Arrays
 
 1. Find sub-array with 0 sum <http://www.techiedelight.com/find-sub-array-with-0-sum/> - `zero-sum-subarray`
+
+### Puzzles
+
+1. Implement power function without using multiplication and division operators <http://www.techiedelight.com/implement-power-function-without-using-multiplication-division-operators/> - `power function`
 
 ## Done elsewhere
 
