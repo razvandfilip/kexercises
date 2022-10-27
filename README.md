@@ -539,7 +539,7 @@ Magnet Puzzle http://www.techiedelight.com/magnet-puzzle/ -
 
 ### Puzzles
 
-1. Implement power function without using multiplication and division operators <http://www.techiedelight.com/implement-power-function-without-using-multiplication-division-operators/> - `power function`
+1. Implement power function without using multiplication and division operators <http://www.techiedelight.com/implement-power-function-without-using-multiplication-division-operators/> - `power-function`
 
 ### String
 
