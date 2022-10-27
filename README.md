@@ -452,7 +452,6 @@ Longest Palindromic Substring (Non-DP Space Optimized Solution) http://www.techi
 Check if repeated subsequence is present in the string or not http://www.techiedelight.com/check-repeated-subsequence-present-string-not/
 Check if strings can be derived from each other by circularly rotating them http://www.techiedelight.com/check-strings-can-derived-circularly-rotating/
 Convert given number into corresponding excel column name http://www.techiedelight.com/convert-given-number-corresponding-excel-column-name/
-Determine if two strings are anagram or not http://www.techiedelight.com/determine-if-two-strings-are-anagram-or-not/
 Find all binary strings that can be formed from given wildcard pattern http://www.techiedelight.com/find-binary-strings-can-formed-given-wildcard-pattern/
 Find all interleavings of given strings http://www.techiedelight.com/find-interleavings-of-given-strings/
 Isomorphic Strings http://www.techiedelight.com/isomorphic-strings/
@@ -545,6 +544,7 @@ Magnet Puzzle http://www.techiedelight.com/magnet-puzzle/ -
 
 1. Find all N-digit strictly increasing numbers (Bottom-Up and Top-Down Approach) <http://www.techiedelight.com/find-n-digit-strictly-increasing-numbers-bottom-top-approach/> - `n-digit`
 1. Inplace remove all occurrences of ‘AB’ and ‘C’ from the string <http://www.techiedelight.com/inplace-remove-all-occurrences-ab-c-string/> - `inplace-remove`
+1. Determine if two strings are anagram or not <http://www.techiedelight.com/determine-if-two-strings-are-anagram-or-not/> - `anagrams`
 
 ## Done elsewhere
 
