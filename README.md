@@ -463,7 +463,6 @@ Find all words from given list that follows same order of characters as given pa
 Find first k non-repeating characters in a string in single traversal http://www.techiedelight.com/first-k-non-repeating-characters-string/
 Group anagrams together from given list of words http://www.techiedelight.com/group-anagrams-together-given-list-words/
 Introduction to Pattern Matching http://www.techiedelight.com/introduction-pattern-matching/
-Inplace remove all occurrences of ‘AB’ and ‘C’ from the string http://www.techiedelight.com/inplace-remove-all-occurrences-ab-c-string/
 Longest even length palidromic sum substring http://www.techiedelight.com/longest-even-length-palidromic-sum-substring/
 Print string in zig-zag form in k rows http://www.techiedelight.com/print-string-in-zig-zag-form-k-rows/
 Reverse given text without reversing the individual words http://www.techiedelight.com/reverse-text-without-reversing-individual-words/
@@ -481,7 +480,6 @@ Find all N-digit binary numbers with k-bits set where k ranges from 1 to N http:
 Generate binary numbers between 1 to N http://www.techiedelight.com/generate-binary-numbers-1-n/
 Find all combinations of non-overlapping substrings of a string http://www.techiedelight.com/find-combinations-non-overlapping-substrings-string/
 Check if given sentence is syntactically correct or not http://www.techiedelight.com/check-given-sentence-syntactically-correct-not/
-Find all N-digit strictly increasing numbers (Bottom-Up and Top-Down Approach) http://www.techiedelight.com/find-n-digit-strictly-increasing-numbers-bottom-top-approach/
 Combinations of words formed by replacing given numbers with corresponding English alphabets http://www.techiedelight.com/combinations-of-words-formed-replacing-given-numbers-corresponding-english-alphabet/
 Word Break Problem http://www.techiedelight.com/word-break-problem/
 Wildcard Pattern Matching http://www.techiedelight.com/wildcard-pattern-matching/
@@ -533,6 +531,8 @@ Magnet Puzzle http://www.techiedelight.com/magnet-puzzle/ -
 
 ## In Progress
 
+1. Inplace remove all occurrences of ‘AB’ and ‘C’ from the string <http://www.techiedelight.com/inplace-remove-all-occurrences-ab-c-string/> - `inplace-remove`
+
 ## Done
 
 ### Arrays
@@ -542,6 +542,10 @@ Magnet Puzzle http://www.techiedelight.com/magnet-puzzle/ -
 ### Puzzles
 
 1. Implement power function without using multiplication and division operators <http://www.techiedelight.com/implement-power-function-without-using-multiplication-division-operators/> - `power function`
+
+### String
+
+1. Find all N-digit strictly increasing numbers (Bottom-Up and Top-Down Approach) <http://www.techiedelight.com/find-n-digit-strictly-increasing-numbers-bottom-top-approach/> - `n-digit`
 
 ## Done elsewhere
 
