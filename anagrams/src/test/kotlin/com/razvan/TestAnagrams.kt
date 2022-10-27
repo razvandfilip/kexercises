@@ -9,13 +9,13 @@ class TestAnagrams {
     fun test() {
         val one = "silent"
         val two = "listen"
-        assertThat(anagram(one, two)).isTrue()
+        assertThat(anagram(one, two)).isTrue
     }
 
     @Test
     fun test2() {
         val one = "silegt"
         val two = "listen"
-        assertThat(anagram(one, two)).isFalse()
+        assertThat(anagram(one, two)).isFalse
     }
 }

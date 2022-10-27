@@ -466,7 +466,6 @@ Longest even length palidromic sum substring http://www.techiedelight.com/longes
 Print string in zig-zag form in k rows http://www.techiedelight.com/print-string-in-zig-zag-form-k-rows/
 Reverse given text without reversing the individual words http://www.techiedelight.com/reverse-text-without-reversing-individual-words/
 Run Length Encoding (RLE) data compression algorithm http://www.techiedelight.com/run-length-encoding-rle-data-compression-algorithm/
-Validate an IP address http://www.techiedelight.com/validate-ip-address/
 Find the longest substring of given string containing k distinct characters http://www.techiedelight.com/find-longest-substring-containing-k-distinct-characters/
 Find all palindromic permutations of a string http://www.techiedelight.com/find-palindromic-permutations-string/
 Find all substrings of a string that are permutation of a given string http://www.techiedelight.com/find-substrings-string-permutation-given-string/
@@ -545,6 +544,7 @@ Magnet Puzzle http://www.techiedelight.com/magnet-puzzle/ -
 1. Find all N-digit strictly increasing numbers (Bottom-Up and Top-Down Approach) <http://www.techiedelight.com/find-n-digit-strictly-increasing-numbers-bottom-top-approach/> - `n-digit`
 1. Inplace remove all occurrences of ‘AB’ and ‘C’ from the string <http://www.techiedelight.com/inplace-remove-all-occurrences-ab-c-string/> - `inplace-remove`
 1. Determine if two strings are anagram or not <http://www.techiedelight.com/determine-if-two-strings-are-anagram-or-not/> - `anagrams`
+1. Validate an IP address <http://www.techiedelight.com/validate-ip-address/> - `ip-validator`
 
 ## Done elsewhere
 
