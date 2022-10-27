@@ -12,3 +12,4 @@ rootProject.name = "kexercises"
 include("zero-sum-subarray")
 include("power-function")
 include("n-digit")
+include("inplace-remove")

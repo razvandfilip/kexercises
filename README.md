@@ -531,8 +531,6 @@ Magnet Puzzle http://www.techiedelight.com/magnet-puzzle/ -
 
 ## In Progress
 
-1. Inplace remove all occurrences of ‘AB’ and ‘C’ from the string <http://www.techiedelight.com/inplace-remove-all-occurrences-ab-c-string/> - `inplace-remove`
-
 ## Done
 
 ### Arrays
@@ -546,6 +544,7 @@ Magnet Puzzle http://www.techiedelight.com/magnet-puzzle/ -
 ### String
 
 1. Find all N-digit strictly increasing numbers (Bottom-Up and Top-Down Approach) <http://www.techiedelight.com/find-n-digit-strictly-increasing-numbers-bottom-top-approach/> - `n-digit`
+1. Inplace remove all occurrences of ‘AB’ and ‘C’ from the string <http://www.techiedelight.com/inplace-remove-all-occurrences-ab-c-string/> - `inplace-remove`
 
 ## Done elsewhere
 
