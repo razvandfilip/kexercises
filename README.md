@@ -406,7 +406,6 @@ Custom Sort | Sort elements by their frequency and Index http://www.techiedeligh
 Custom Sort | Sort elements of the array by order of elements defined by the second array http://www.techiedelight.com/custom-sort-sort-elements-array-order-elements-defined-second-array/
 Inversion Count of an array http://www.techiedelight.com/inversion-count-array/
 Segregate positive and negative integers in linear time http://www.techiedelight.com/positive-and-negative-integers-segregate/
-Find the smallest window in array sorting which will make the entire array sorted http://www.techiedelight.com/smallest-window-sorting-which-make-array-sorted/
 Find largest number possible from set of given numbers http://www.techiedelight.com/find-largest-number-possible-set-given-numbers/
 Move all zeros present in the array to the end http://www.techiedelight.com/move-zeros-present-array-end/
 Sort binary array in linear time http://www.techiedelight.com/sort-binary-array-linear-time/
@@ -529,11 +528,13 @@ Magnet Puzzle http://www.techiedelight.com/magnet-puzzle/ -
 
 ## In Progress
 
+
 ## Done
 
 ### Arrays
 
 1. Find sub-array with 0 sum <http://www.techiedelight.com/find-sub-array-with-0-sum/> - `zero-sum-subarray`
+1. Find the smallest window in array sorting which will make the entire array sorted <http://www.techiedelight.com/smallest-window-sorting-which-make-array-sorted/> - `array-window`
 
 ### Puzzles
 
