@@ -14,7 +14,6 @@ Find maximum length sub-array having equal number of 0’s and 1’s http://www.
 Inplace merge two sorted arrays http://www.techiedelight.com/inplace-merge-two-sorted-arrays/
 Merge two arrays by satisfying given constraints http://www.techiedelight.com/merge-two-arrays-satisfying-given-constraints/
 Find index of 0 to replaced to get maximum length sequence of continuous ones http://www.techiedelight.com/find-index-0-replaced-get-maximum-length-sequence-of-continuous-ones/
-Find maximum product of two integers in an array http://www.techiedelight.com/find-maximum-product-two-integers-array/
 Shuffle a given array of elements (Fisher–Yates shuffle) http://www.techiedelight.com/shuffle-given-array-elements-fisher-yates-shuffle/
 Rearrange the array with alternate high and low elements http://www.techiedelight.com/rearrange-the-array-with-alternate-high-and-low-elements/
 Find equilibrium index of an array http://www.techiedelight.com/find-equilibrium-index-array/
@@ -528,13 +527,13 @@ Magnet Puzzle http://www.techiedelight.com/magnet-puzzle/ -
 
 ## In Progress
 
-
 ## Done
 
 ### Arrays
 
 1. Find sub-array with 0 sum <http://www.techiedelight.com/find-sub-array-with-0-sum/> - `zero-sum-subarray`
 1. Find the smallest window in array sorting which will make the entire array sorted <http://www.techiedelight.com/smallest-window-sorting-which-make-array-sorted/> - `array-window`
+1. Find maximum product of two integers in an array <http://www.techiedelight.com/find-maximum-product-two-integers-array/> - `maximum-two`
 
 ### Puzzles
 
