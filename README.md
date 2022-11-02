@@ -429,7 +429,6 @@ Merging Overlapping Intervals http://www.techiedelight.com/merging-overlapping-i
 
 ### Stack
 
-Check if given expression is balanced expression or not http://www.techiedelight.com/check-given-expression-balanced-expression-not/
 Find duplicate parenthesis in an expression http://www.techiedelight.com/find-duplicate-parenthesis-expression/
 Evaluate given postfix expression http://www.techiedelight.com/evaluate-given-postfix-expression/
 Decode the given sequence to construct minimum number without repeated digits http://www.techiedelight.com/decode-the-given-sequence-construct-minimum-number-without-repeated-digits/
@@ -538,6 +537,10 @@ Magnet Puzzle http://www.techiedelight.com/magnet-puzzle/ -
 ### Puzzles
 
 1. Implement power function without using multiplication and division operators <http://www.techiedelight.com/implement-power-function-without-using-multiplication-division-operators/> - `power-function`
+
+### Stack
+
+1. Check if given expression is balanced expression or not <http://www.techiedelight.com/check-given-expression-balanced-expression-not/> - `balanced-expression`
 
 ### String
 
