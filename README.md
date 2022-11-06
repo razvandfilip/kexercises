@@ -429,7 +429,6 @@ Merging Overlapping Intervals http://www.techiedelight.com/merging-overlapping-i
 
 ### Stack
 
-Decode the given sequence to construct minimum number without repeated digits http://www.techiedelight.com/decode-the-given-sequence-construct-minimum-number-without-repeated-digits/
 Inorder Tree Traversal | Iterative & Recursive http://www.techiedelight.com/inorder-tree-traversal-iterative-recursive/
 Preorder Tree Traversal | Iterative & Recursive http://www.techiedelight.com/preorder-tree-traversal-iterative-recursive/
 Postorder Tree Traversal | Iterative & Recursive http://www.techiedelight.com/postorder-tree-traversal-iterative-recursive/
@@ -541,7 +540,7 @@ Magnet Puzzle http://www.techiedelight.com/magnet-puzzle/ -
 1. Check if given expression is balanced expression or not <http://www.techiedelight.com/check-given-expression-balanced-expression-not/> - `balanced-expression`
 1. Find duplicate parenthesis in an expression <http://www.techiedelight.com/find-duplicate-parenthesis-expression/> - `duplicate-parens`
 1. Evaluate given postfix expression <http://www.techiedelight.com/evaluate-given-postfix-expression/> - `evaluate-postfix`
-
+1. Decode the given sequence to construct minimum number without repeated digits <http://www.techiedelight.com/decode-the-given-sequence-construct-minimum-number-without-repeated-digits/> - `stack-sequence`
 
 ### String
 
