@@ -301,8 +301,6 @@ Find first k non-repeating characters in a string in single traversal http://www
 
 ### Linked List
 
-Introduction to Linked Lists http://www.techiedelight.com/introduction-linked-lists/
-Linked List Implementation | Part 1 http://www.techiedelight.com/linked-list-implementation-part-1/
 Linked List Implementation | Part 2 http://www.techiedelight.com/linked-list-implementation-part-2/
 Static Linked List in C http://www.techiedelight.com/static-linked-list-c/
 Clone given Linked List http://www.techiedelight.com/clone-given-linked-list/
@@ -548,6 +546,14 @@ Magnet Puzzle http://www.techiedelight.com/magnet-puzzle/ -
 1. Inplace remove all occurrences of ‘AB’ and ‘C’ from the string <http://www.techiedelight.com/inplace-remove-all-occurrences-ab-c-string/> - `inplace-remove`
 1. Determine if two strings are anagram or not <http://www.techiedelight.com/determine-if-two-strings-are-anagram-or-not/> - `anagrams`
 1. Validate an IP address <http://www.techiedelight.com/validate-ip-address/> - `ip-validator`
+
+### Linked List
+
+1. Linked List Implementation | Part 1 <http://www.techiedelight.com/linked-list-implementation-part-1/> - `linked-list-1`
+
+### Other
+
+Introduction to Linked Lists <http://www.techiedelight.com/introduction-linked-lists/>
 
 ## Done elsewhere
 
