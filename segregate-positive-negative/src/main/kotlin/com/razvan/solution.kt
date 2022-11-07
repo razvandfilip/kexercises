@@ -16,9 +16,6 @@ fun segregate(array: Array<Int>) {
 }
 
 fun segregateWithOrder(array: Array<Int>) {
-    val positiveCount = array.count { it > 0 }
-    val negativeCount = array.count { it < 0 }
-
     val copy = array.copyOf()
 
     var lastNegative = -1

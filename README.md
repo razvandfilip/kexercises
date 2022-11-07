@@ -338,7 +338,6 @@ Print diagonal elements of the matrix having positive slope http://www.techiedel
 Find all paths from first cell to last cell of a matrix http://www.techiedelight.com/find-all-paths-from-source-to-destination-in-matrix/
 Replace all occurrences of 0 that are not surrounded by 1 in a binary matrix http://www.techiedelight.com/replace-occurrences-0-not-surrounded-1-binary-matrix/
 In-place rotate the matrix by 90 degrees in clock-wise direction http://www.techiedelight.com/place-rotate-matrix-90-degrees-clock-wise-direction/
-Count negative elements present in sorted matrix in linear time http://www.techiedelight.com/count-negative-elements-present-sorted-matrix/
 Report all occurrences of an element in row wise and column wise sorted matrix in linear time http://www.techiedelight.com/report-all-occurrences-of-an-element-in-sorted-matrix/
 Calculate sum of all elements in a sub-matrix in constant time http://www.techiedelight.com/calculate-sum-elements-sub-matrix-constant-time/
 Find maximum sum K x K sub-matrix in a given M x N matrix http://www.techiedelight.com/find-maximum-sum-submatrix-in-given-matrix/
@@ -550,6 +549,10 @@ Magnet Puzzle http://www.techiedelight.com/magnet-puzzle/ -
 ### Linked List
 
 1. Linked List Implementation | Part 1 <http://www.techiedelight.com/linked-list-implementation-part-1/> - `linked-list-1`
+
+### Matrix
+
+1. Count negative elements present in sorted matrix in linear time <http://www.techiedelight.com/count-negative-elements-present-sorted-matrix/> - `negative-sorted-matrix`
 
 ### Other
 
