@@ -59,7 +59,6 @@ External merge sort http://www.techiedelight.com/external-merge-sort/
 Custom Sort | Sort elements by their frequency and Index http://www.techiedelight.com/sort-elements-by-their-frequency-and-index/
 Custom Sort | Sort elements of the array by order of elements defined by the second array http://www.techiedelight.com/custom-sort-sort-elements-array-order-elements-defined-second-array/
 Inversion Count of an array http://www.techiedelight.com/inversion-count-array/
-Segregate positive and negative integers in linear time http://www.techiedelight.com/positive-and-negative-integers-segregate/
 Ternary Search vs Binary search http://www.techiedelight.com/ternary-search-vs-binary-search/
 Interpolation search http://www.techiedelight.com/interpolation-search/
 Exponential search http://www.techiedelight.com/exponential-search/
@@ -528,6 +527,7 @@ Magnet Puzzle http://www.techiedelight.com/magnet-puzzle/ -
 1. Find the smallest window in array sorting which will make the entire array sorted <http://www.techiedelight.com/smallest-window-sorting-which-make-array-sorted/> - `array-window`
 1. Find maximum product of two integers in an array <http://www.techiedelight.com/find-maximum-product-two-integers-array/> - `maximum-two`
 1. Sort binary array in linear time <http://www.techiedelight.com/sort-binary-array-linear-time/> - `binary-sort-linear`
+1. Segregate positive and negative integers in linear time <http://www.techiedelight.com/positive-and-negative-integers-segregate/> - `segregate-positive-negative`
 
 ### Puzzles
 
