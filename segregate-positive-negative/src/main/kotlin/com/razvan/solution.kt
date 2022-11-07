@@ -14,3 +14,23 @@ fun segregate(array: Array<Int>) {
         }
     }
 }
+
+fun segregateWithOrder(array: Array<Int>) {
+    val positiveCount = array.count { it > 0 }
+    val negativeCount = array.count { it < 0 }
+
+    val copy = array.copyOf()
+
+    var lastNegative = -1
+    array.asSequence().filter { it < 0 }.forEachIndexed { index, it ->
+        copy[index] = it
+        lastNegative = index
+    }
+
+    array.asSequence().filter { it > 0 }.forEachIndexed { index, it ->
+        copy[index + lastNegative + 1] = it
+    }
+    copy.forEachIndexed { index, it ->
+        array[index] = it
+    }
+}
