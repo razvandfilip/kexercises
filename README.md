@@ -250,9 +250,6 @@ All-Pairs Shortest Paths — Floyd Warshall Algorithm http://www.techiedelight.c
 
 ### Graphs
 
-Terminology and Representations of Graphs http://www.techiedelight.com/terminology-and-representations-of-graphs/
-Graph Implementation using STL http://www.techiedelight.com/graph-implementation-using-stl/
-Graph Implementation in C++ without using STL http://www.techiedelight.com/graph-implementation-c-without-using-stl/
 Breadth First Search (BFS) | Iterative & Recursive Implementation http://www.techiedelight.com/breadth-first-search/
 Depth First Search (DFS) | Iterative & Recursive Implementation http://www.techiedelight.com/depth-first-search/
 Arrival and Departure Time of Vertices in DFS http://www.techiedelight.com/arrival-departure-time-vertices-dfs/
@@ -554,9 +551,16 @@ Magnet Puzzle http://www.techiedelight.com/magnet-puzzle/ -
 
 1. Count negative elements present in sorted matrix in linear time <http://www.techiedelight.com/count-negative-elements-present-sorted-matrix/> - `negative-sorted-matrix`
 
+### Graph
+
+1. Graph Implementation in Java <https://www.techiedelight.com/graph-implementation-java-using-collections/>
+
 ### Other
 
-Introduction to Linked Lists <http://www.techiedelight.com/introduction-linked-lists/>
+1. Introduction to Linked Lists <http://www.techiedelight.com/introduction-linked-lists/>
+1. Terminology and Representations of Graphs <http://www.techiedelight.com/terminology-and-representations-of-graphs/>
+1. Graph Implementation using STL <http://www.techiedelight.com/graph-implementation-using-stl/>
+1. Graph Implementation in C++ without using STL <http://www.techiedelight.com/graph-implementation-c-without-using-stl/>
 
 ## Done elsewhere
 
