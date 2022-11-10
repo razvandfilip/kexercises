@@ -6,7 +6,6 @@ Original list of 500 exercises - <https://kingrayhan.medium.com/500-data-structu
 
 ### Array
 
-Find a duplicate element in a limited range array http://www.techiedelight.com/find-duplicate-element-limited-range-array/
 Find largest sub-array formed by consecutive integers http://www.techiedelight.com/find-largest-sub-array-formed-by-consecutive-integers/
 Find maximum length sub-array having given sum http://www.techiedelight.com/find-maximum-length-sub-array-having-given-sum/
 Find maximum length sub-array having equal number of 0’s and 1’s http://www.techiedelight.com/find-maximum-length-sub-array-equal-number-0s-1s/
@@ -519,6 +518,7 @@ Magnet Puzzle http://www.techiedelight.com/magnet-puzzle/ -
 
 ### Arrays
 
+1. Find a duplicate element in a limited range array <http://www.techiedelight.com/find-duplicate-element-limited-range-array/> - `duplicate-array`
 1. Find sub-array with 0 sum <http://www.techiedelight.com/find-sub-array-with-0-sum/> - `zero-sum-subarray`
 1. Find the smallest window in array sorting which will make the entire array sorted <http://www.techiedelight.com/smallest-window-sorting-which-make-array-sorted/> - `array-window`
 1. Find maximum product of two integers in an array <http://www.techiedelight.com/find-maximum-product-two-integers-array/> - `maximum-two`
