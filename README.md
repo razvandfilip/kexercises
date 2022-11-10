@@ -432,7 +432,6 @@ Depth First Search (DFS) | Iterative & Recursive Implementation http://www.techi
 
 ### String
 
-Check if given string is a rotated palindrome or not http://www.techiedelight.com/check-given-string-rotated-palindrome-not/
 Longest Palindromic Substring (Non-DP Space Optimized Solution) http://www.techiedelight.com/longest-palindromic-substring-non-dp-space-optimized-solution/
 Check if repeated subsequence is present in the string or not http://www.techiedelight.com/check-repeated-subsequence-present-string-not/
 Check if strings can be derived from each other by circularly rotating them http://www.techiedelight.com/check-strings-can-derived-circularly-rotating/
@@ -538,6 +537,7 @@ Magnet Puzzle http://www.techiedelight.com/magnet-puzzle/ -
 
 ### String
 
+1. Check if given string is a rotated palindrome or not <http://www.techiedelight.com/check-given-string-rotated-palindrome-not/> - `rotated-palindrome`
 1. Find all N-digit strictly increasing numbers (Bottom-Up and Top-Down Approach) <http://www.techiedelight.com/find-n-digit-strictly-increasing-numbers-bottom-top-approach/> - `n-digit`
 1. Inplace remove all occurrences of ‘AB’ and ‘C’ from the string <http://www.techiedelight.com/inplace-remove-all-occurrences-ab-c-string/> - `inplace-remove`
 1. Determine if two strings are anagram or not <http://www.techiedelight.com/determine-if-two-strings-are-anagram-or-not/> - `anagrams`
