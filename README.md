@@ -306,7 +306,6 @@ Given a linked list, change it to be in sorted order http://www.techiedelight.co
 Split the nodes of the given linked list into front and back halves http://www.techiedelight.com/split-nodes-given-linked-list-front-back-halves/
 Remove duplicates from a sorted linked list http://www.techiedelight.com/remove-duplicates-sorted-linked-list/
 Move front node of the given list to the front of the another list http://www.techiedelight.com/move-front-node-given-list-front-another-list/
-Move even nodes to the end of the list in reverse order http://www.techiedelight.com/move-even-nodes-to-end-of-list-in-reverse-order/
 Split given linked list into two lists where each list containing alternating elements from it http://www.techiedelight.com/split-linked-list-into-two-lists-list-containing-alternating-elements/
 Construct a linked list by merging alternate nodes of two given lists http://www.techiedelight.com/merge-alternate-nodes-two-linked-lists/
 Merge given sorted linked lists into one http://www.techiedelight.com/merge-given-sorted-linked-lists/
@@ -546,6 +545,7 @@ Magnet Puzzle http://www.techiedelight.com/magnet-puzzle/ -
 ### Linked List
 
 1. Linked List Implementation | Part 1 <http://www.techiedelight.com/linked-list-implementation-part-1/> - `linked-list-1`
+1. Move even nodes to the end of the list in reverse order <http://www.techiedelight.com/move-even-nodes-to-end-of-list-in-reverse-order/> - `move-even`
 
 ### Matrix
 
