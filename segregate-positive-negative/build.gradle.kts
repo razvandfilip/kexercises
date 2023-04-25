@@ -1,5 +1,5 @@
 plugins {
-    kotlin("jvm") version "1.7.20"
+    kotlin("jvm") version "1.8.21"
     `java-library`
 }
 
@@ -17,3 +17,8 @@ tasks.getByName<Test>("test") {
     useJUnitPlatform()
 }
 
+kotlin {
+    jvmToolchain {
+        languageVersion.set(JavaLanguageVersion.of(17))
+    }
+}
